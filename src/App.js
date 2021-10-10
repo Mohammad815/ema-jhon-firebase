@@ -10,6 +10,7 @@ import Shop from './components/Shop/Shop';
 function App() {
   return (
     <div>
+      <h1>hellow</h1>
       <Router>
         <Header></Header>
         <Switch>
